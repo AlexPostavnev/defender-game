@@ -1,0 +1,29 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "My awesome defender game",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPostavnev/defender-game.git"
+  },
+  "author": "ALexPostavnev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexPostavnev/defender-game/issues"
+  },
+  "homepage": "https://github.com/AlexPostavnev/defender-game#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.27.0",
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "@eslint/js": "^9.25.0",
+    "core-js": "^3.41.0",
+    "eslint": "^9.25.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.0.0"
+  }
+}
